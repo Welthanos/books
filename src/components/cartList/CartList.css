@@ -14,6 +14,8 @@ div.order {
             border-radius: .5rem .5rem 0 0;
             list-style: none;
             display: flex;
+            font-size: 1.125rem;
+            font-weight: bold;
 
             #item{
                 min-width: 38%;
@@ -31,15 +33,15 @@ div.order {
 
             h2 {
                 margin-top: 10px;
-                font-size: .875rem;
+                font-size: 1.2rem;
                 font-weight: 400;
                 display: flex;
                 align-items: center;
                 min-width: 30%;
 
                 img {
-                    width: 3.125rem;
-                    height: 3.125rem;
+                    width: 5rem;
+                    height: 5rem;
                     margin: .5rem;
                 }
             }
