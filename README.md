@@ -16,6 +16,7 @@ Nesta aplicação estão sendo utilizadas as API's <strong><a href="https://gute
 - <strong>Listagem de livros:</strong> Exibe uma lista de livros obtidos a partir de uma API externa.
 - <strong>Filtragem:</strong> Permite filtrar a lista de livros por nome.
 - <strong>Carrinho de compras:</strong> Permite aos usuários adicionar livros cao carrinho, armazenada localmente.
+
 ## Tecnologias utilizadas
 
 - <strong>React</strong>
@@ -23,6 +24,10 @@ Nesta aplicação estão sendo utilizadas as API's <strong><a href="https://gute
 - <strong>RTK Query</strong>
 - <strong>React-Router-DOM</strong>
 - <strong>LocalStorage</strong>
+
+## Deploy
+
+- <a href='https://books-gamma-ten.vercel.app/'>Book's</a>
 
 ## Como executar
 
