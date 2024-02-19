@@ -27,7 +27,7 @@ export default function CartList() {
                 </li>
                 {cartItems.map((item) => (
                 <li className='list' key={item.id} >
-                    <h2>
+                    <h2 className='title'>
                         <img src={item.image} alt={item.title} />
                         {item.title}
                     </h2>

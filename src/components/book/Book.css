@@ -54,6 +54,7 @@ div.book {
         border: 1px solid #FF7A00;
         border-radius: 30px;
         box-shadow: 0 3px 6px 0 #9c9c9c;
+        background-color: #f4f4f4;
 
         &:hover {
             background-color: #FF7A00;

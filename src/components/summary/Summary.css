@@ -12,6 +12,8 @@ div.summary {
             background-color: #FF4D00;
             color: #fff;
             padding: .5rem;
+            font-size: 1.125rem;
+            font-weight: bold;
         }
 
         .summary-subtotal {
@@ -33,6 +35,8 @@ div.summary {
             display: flex;
             justify-content: space-between;
             padding: .5rem;
+            font-size: 1.2rem;
+            font-weight: bold;
         }
     }
 
