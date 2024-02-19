@@ -50,8 +50,8 @@ export default function Home() {
                                 />
                             ))}
                         </div>
-                        <img id='left' src={arrowLeft} onClick={() => handleScrollLeft()} />
-                        <img id='right' src={arrowRight} onClick={() => handleScrollRight()} />
+                        <img id='left' src={arrowLeft} onClick={() => handleScrollLeft()} alt='Seta para a esquerda, sinalizando mais opções'/>
+                        <img id='right' src={arrowRight} onClick={() => handleScrollRight()} alt='Seta para a direita, sinalizando mais opções'/>
                     </div>
                 </>}
             </main>
