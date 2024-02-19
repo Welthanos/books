@@ -40,7 +40,7 @@ export default function Summary () {
         <div className='summary'>
             <ul>
                 <li className='summary-list'>
-                    Sumario
+                    Sumário
                 </li>
                 <li className='summary-subtotal'>
                     <span>Subtotal</span>
