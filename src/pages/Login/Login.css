@@ -13,7 +13,7 @@
     div.decoration-bottom {
         height: 3rem;
         width: 100%;
-        background-color: #ff4d00b8;
+        background-color: #ff4d00d6;
     }
 
     div.decoration-top {
@@ -78,7 +78,7 @@
         }
 
         button {
-            background-color: #ff4d00b8;
+            background-color: #ff4d00d6;
             color: #fff;
             border: none;
             border-radius: .5rem;
@@ -92,7 +92,7 @@
             font-weight: bold;
 
             &:hover {
-                background-color: #ff4d00d6;
+                background-color: #ff4d00f4;
             }
         }
 

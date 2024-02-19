@@ -8,17 +8,16 @@ main.library {
     background: url('../../assets/background.svg') center center no-repeat;
     background-size: cover;
 
-    padding: 5rem 10rem;
+    padding: 5rem 2rem;
 
     div.books {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
         place-items: center;
-        gap: 1rem;
 
         gap: 2.5rem 3rem;
 
-        width: auto;
+        width: 100%;
         max-width: 1550px;
         max-height: 90vh;
         padding: 0.5rem 3rem 2rem 3rem;
